@@ -24,3 +24,4 @@ npm run dev
 ```
 
 After restarting Tribler, requests to `/ui` will be forwarded to the development server. Tribler assumes that the development server will run at `http://localhost:5173`.
+<!-- Auto-update: 2025-10-15T12:50:30.518878 -->
